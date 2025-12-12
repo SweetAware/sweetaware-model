@@ -1,1 +1,3 @@
-High Risk\nLow Risk\nModerate Risk\n
+Plastic Bag Images
+Paper Bag Images
+Garbage Bag Images
